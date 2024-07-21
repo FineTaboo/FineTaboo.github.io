@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thank you for using Biu!"
-date:   2016-12-07 19:48:12
+title:  "Share my notes here"
+date:   2024-07-21 19:48:12
 ---
-It is a modified version of butane-jekyll-theme by [KayMW](https://github.com/RedL0tus).
+Start sharing my notes here. Cool!
