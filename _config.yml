@@ -1,11 +1,11 @@
 # Site settings
-title: Your site
+title: FineTaboo's Notes
 description: >
-    Your description
-author: Your name
+    FineTaboo's Notes
+author: FineTaboo
 email: your@e.mail
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourname.github.io" # the base hostname & protocol for your site
+url: "https://github.com/FineTaboo/FineTaboo.github.io" # the base hostname & protocol for your site
 twitter_username: YourTwitter
 github_username:  YourGitHub
 
