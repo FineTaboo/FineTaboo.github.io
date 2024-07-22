@@ -9,7 +9,7 @@ url: "https://github.com/FineTaboo/FineTaboo.github.io" # the base hostname & pr
 twitter_username: YourTwitter
 github_username:  YourGitHub
 
-disqus_shortname: YourDisqusShortname
+disqus_shortname: https-finetaboo-github-io
 
 # Build settings
 include: [_pages]
