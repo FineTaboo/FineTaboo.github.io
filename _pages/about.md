@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-FineTaboo's Notes.
+# About me  
+***
+FineTaboo's Random Notes.
+
+文不能题字，武不能防身。
 
 
